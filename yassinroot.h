@@ -17,7 +17,7 @@
 
 
 
-Copyright Yassine Ben Alaya
+By Yassine Ben Alaya
 
 
 benalayassine@gmail.com
